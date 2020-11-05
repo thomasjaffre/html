@@ -1,5 +1,5 @@
 html {
-    background-color: green;
+    background-color: white
     font-size: 20px;
   }
   
@@ -14,5 +14,6 @@ html {
   }
 
   h1 {
-    color: blue
+    color: blue;
+    border: 5px solid blue;
   }
